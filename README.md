@@ -10,7 +10,7 @@
 - 👀 I’m quite interested in creating the code
 - 🌱 I'm Pursuing B.Tech IT at Jaya Engineering College
 - 💗 I’m looking to collaborate with new things and new skills
-- 📫 Reach me on sadhanasadhzz05@gmail.com
+- 📫 Reach me on sadhanasathishprabhu@gmail.com
 - 💻 Connect with me on https://www.linkedin.com/in/sadhana-s-7543a72a6
 
 <br>
