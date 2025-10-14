@@ -7,7 +7,7 @@
 </a>
 
 - 👋 Hi, I’m Sadhana
-- 👀 I’m quite interested in creating the code
+- 🤍 I’m quite interested in creating the code
 - 🌱 I'm Pursuing B.Tech IT at Jaya Engineering College
 - 💗 I’m looking to collaborate with new things and new skills
 - 📫 Reach me on sadhanasathishprabhu@gmail.com
