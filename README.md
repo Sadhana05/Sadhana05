@@ -1,4 +1,4 @@
-<halign="center">Hi👋This is Sadhana</h1>
+<h1><align="center">Hi👋This is Sadhana</h1>
 <h3 align="center">Magic in every moment with these little ones...</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadhana05&label=Profile%20views&color=0e75b6&style=flat" alt="sadhana05" /> </p>
