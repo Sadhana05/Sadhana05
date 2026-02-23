@@ -1,18 +1,39 @@
-<center>
-<h1><align="center">Hi👋This is Sadhana</h1>
-</center>
-<h3 align="center">Magic in every moment with these little ones...</h3>
+<h1 align="center">Hi 👋 This is Sadhana</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sadhana05&label=Profile%20views&color=0e75b6&style=flat" alt="sadhana05" /> </p>
-<a href="#sadhana05-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadhana05&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="sadhana05" align="right" />
-</a>
+<h3 align="center">✨Code with passion, build with purpose, and let your dreams deploy into reality 🚀
+</h3>
 
-- 👋 Hi, I’m Sadhana
-- 🤍 I’m quite interested in creating the code
-- 🌱 I'm Pursuing B.Tech IT at Jaya Engineering College
-- 💗 I’m looking to collaborate with new things and new skills
-- 📫 Reach me on sadhanasathishprabhu@gmail.com
-- 💻 Connect with me on https://www.linkedin.com/in/sadhana-s-7543a72a6
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadhana05&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/sadhana05">
+    <img src="https://github-readme-stats.vercel.app/api?username=sadhana05&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<hr>
+
+<h2>🌸 About Me</h2>
+
+<ul>
+  <li>👩‍💻 Hi, I’m <strong>Sadhana</strong></li>
+  <li>🤍 Passionate about coding and building creative projects</li>
+  <li>🎓 Pursuing <strong>B.Tech in Information Technology</strong> at Jaya Engineering College</li>
+  <li>🚀 Interested in Full Stack Development & AI</li>
+  <li>🤝 Looking to collaborate on innovative and impactful projects</li>
+</ul>
+
+<h2>📬 Connect With Me</h2>
+
+<ul>
+  <li>📧 Email: <a href="mailto:sadhanasathishprabhu@gmail.com">sadhanasathishprabhu@gmail.com</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/sadhana-s-7543a72a6" target="_blank">Sadhana S</a></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  ⭐ Always learning, always building, always improving ⭐
+</p>
