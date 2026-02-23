@@ -7,14 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=sadhana05&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/sadhana05">
-    <img src="https://github-readme-stats.vercel.app/api?username=sadhana05&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<hr>
-
 <h2>🌸 About Me</h2>
 
 <ul>
