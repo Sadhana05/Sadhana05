@@ -10,10 +10,10 @@
 <h2>🩷 About Me</h2>
 
 <ul>
-  <li>👩‍💻 Hi, I’m <strong>Sadhana</strong></li>
+  <li>👩🏻‍💻 Hi, I’m <strong>Sadhana</strong></li>
   <li>💙 Passionate about coding and building creative projects</li>
-  <li>🎓 Pursuing <strong>B.Tech in Information Technology</strong> at Jaya Engineering College</li>
-  <li>🚀 Interested in Full Stack Development & AI</li>
+  <li>🎓 <strong>B.Tech in Information Technology</strong> at Jaya Engineering College</li>
+  <li>🚀 Interested in Data Science and Data Analytics</li>
   <li>🤝 Looking to collaborate on innovative and impactful projects</li>
 </ul>
 
